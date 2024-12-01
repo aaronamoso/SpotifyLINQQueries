@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyLINQQueries", "SpotifyLINQQueries.csproj", "{2785748B-4CDD-4379-BE02-EB9A956ADFDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2785748B-4CDD-4379-BE02-EB9A956ADFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2785748B-4CDD-4379-BE02-EB9A956ADFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2785748B-4CDD-4379-BE02-EB9A956ADFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2785748B-4CDD-4379-BE02-EB9A956ADFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AE82F19-C228-4BB5-932D-196D5914C13E}
+	EndGlobalSection
+EndGlobal
